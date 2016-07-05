@@ -1,1 +1,1 @@
-FROM buffering706/meteor:onbuild
+FROM buffering706/meteord:onbuild
